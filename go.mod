@@ -1,3 +1,1 @@
-module github.com/grizzlybite/testmod
-
-go 1.18
+module github.com/grizzlybite/testmod/v2
